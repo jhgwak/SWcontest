@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="navigation">
+            <ul>
+                <li>
+                    <a href="#">
+                        <span class="icon"></span>
+                        <span class="title"><h2>Walking Vision</h2></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <span class="icon"></span>
+                        <span class="title">Dashboard</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <span class="icon"></span>
+                        <span class="title">test1</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <span class="icon"></span>
+                        <span class="title">test2</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <span class="icon"></span>
+                        <span class="title">test3</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <span class="icon"></span>
+                        <span class="title">test4</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="main">
+            <div class="topbar">
+                <div class="toggle" onclick="toggleMenu();"></div>
+                <div class="search">
+                    <label>
+                        <input type="text" placeholder="search here">
+                    </label>
+                </div>
+                <div class="user">
+                    <img src="#">
+                </div>
+            </div>
+            <div class="cardBox">
+                <div class="card">
+                    <div>
+                        <div class="numbers">test1</div>
+                        <div class="cardName">This test1</div>
+                    </div>
+                    <div class="icombox">
+                        <i class="fa fa-eys" aria-hidden="true"></i>
+                    </div>
+                </div>
+                <div class="card">
+                    <div>
+                        <div class="numbers">test2</div>
+                        <div class="cardName">This test2</div>
+                    </div>
+                    <div class="icombox">
+                        <i class="fa fa-eys" aria-hidden="true"></i>
+                    </div>
+                </div>
+                <div class="card">
+                    <div>
+                        <div class="numbers">test3</div>
+                        <div class="cardName">This test3</div>
+                    </div>
+                    <div class="icombox">
+                        <i class="fa fa-eys" aria-hidden="true"></i>
+                    </div>
+                </div>
+                <div class="card">
+                    <div>
+                        <div class="numbers">test4</div>
+                        <div class="cardName">This test4</div>
+                    </div>
+                    <div class="icombox">
+                        <i class="fa fa-eys" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleMenu(){
+            let toggle =document.querySelector('.toggle');
+            let navigation =document.querySelector('.navigation');
+            let main =document.querySelector('.main');
+            toggle.classList.toggle('active');
+            navigation.classList.toggle('active');
+            main.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>
