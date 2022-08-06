@@ -3,7 +3,7 @@
 <img width="609" alt="스크린샷 2022-07-20 오후 3 12 15" src="https://user-images.githubusercontent.com/88297412/179909662-66828a5c-d9a9-4b35-a277-39a7b663878c.png">
 <img width="439" alt="스크린샷 2022-07-20 오후 3 12 30" src="https://user-images.githubusercontent.com/88297412/179909675-a60b840d-1390-4422-8333-abb407fabb25.png">
 
-시계열 데이터 전처리 결과 
+시계열 데이터 전처리 결과 --> 영상을 프레임별로 자르고 각 좌표를 추출
 
 각 데이터는 
 
