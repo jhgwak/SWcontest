@@ -49,9 +49,9 @@
 
 좌표를 추출한 결과
 
-<img width="294" alt="스크린샷 2022-08-06 오후 9 36 29" src="https://user-images.githubusercontent.com/88297412/183249208-3b700989-6e66-40bd-b13a-1ed5f470a601.png">
 
-<img width="288" alt="스크린샷 2022-08-06 오후 9 36 46" src="https://user-images.githubusercontent.com/88297412/183249215-b556b278-7a4c-460c-b265-c1dad971afb6.png">
+<img width="1217" alt="스크린샷 2022-08-08 오후 6 58 43" src="https://user-images.githubusercontent.com/88297412/183392513-e3c4adbb-4106-43b4-a064-b835fb947e0f.png">
+
 
 
 이미지 결과르 업로드 하기 위한 DashBoard 
