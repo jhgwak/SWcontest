@@ -56,6 +56,9 @@
 
 <img width="1217" alt="스크린샷 2022-08-08 오후 6 58 43" src="https://user-images.githubusercontent.com/88297412/183392513-e3c4adbb-4106-43b4-a064-b835fb947e0f.png">
 
+데이터를 기반으로한 LSTM 모델 생성 
+
+<img width="828" alt="KakaoTalk_Photo_2022-08-14-16-54-25" src="https://user-images.githubusercontent.com/88297412/184527796-2d3ae307-28f4-4988-8e77-afa567286572.png">
 
 
 이미지 결과르 업로드 하기 위한 DashBoard 
