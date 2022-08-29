@@ -60,6 +60,9 @@
 
 <img width="828" alt="KakaoTalk_Photo_2022-08-14-16-54-25" src="https://user-images.githubusercontent.com/88297412/184527796-2d3ae307-28f4-4988-8e77-afa567286572.png">
 
+<img width="650" alt="KakaoTalk_Photo_2022-08-29-20-35-57" src="https://user-images.githubusercontent.com/88297412/187192747-6b46daf5-40b3-42d2-bf95-c253907ca77c.png">
+
+
 
 이미지 결과르 업로드 하기 위한 DashBoard 
 
