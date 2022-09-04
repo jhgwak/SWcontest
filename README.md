@@ -51,6 +51,11 @@
 
 24오른쪽 발꿈치
 
+걸음걸이 데이터 추출 
+
+<img width="203" alt="스크린샷 2022-09-04 오후 8 10 35" src="https://user-images.githubusercontent.com/88297412/188310387-69b8dc36-091e-4585-bf93-94df1c78d4b3.png">
+
+
 좌표를 추출한 결과
 
 
